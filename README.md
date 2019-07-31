@@ -1,2 +1,2 @@
 # webDev
-Tip achive for web development 
+Study notes for web development 
